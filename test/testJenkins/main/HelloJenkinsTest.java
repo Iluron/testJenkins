@@ -7,7 +7,7 @@ public class HelloJenkinsTest
 {
 	@Test
 	public void test() {
-		System.out.println("TEST");
+		System.out.println("TEST123");
 		Assert.assertTrue(true);
 	}
 }
